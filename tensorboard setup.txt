@@ -1,0 +1,10 @@
+## setup a folder path to store files
+board= TensorBoard(log_dir=r'C:\Users\Siyan\Documents\graph', histogram_freq=0, write_graph=True, write_images=True) 
+
+
+## in Anaconda Prompt
+tensorboard --logdir=C:\Users\Siyan\Documents\graph     
+
+
+## navigate web browser to localhost:6006
+localhost:6006  
