@@ -12,7 +12,7 @@ Description:
 Input: 
 
 	CIFAR10 dataset (auto downloaded)
-	Parameters at the beginning of Python file.	
+	Parameters at the beginning in Python file.	
 
 
 Output: 
